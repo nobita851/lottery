@@ -1,0 +1,18 @@
+Test Case 1:
+Contract Succesfully compiled.
+
+Test Case 2:
+Contract Succesfully deployed.
+
+Test Case 3:
+Only Admin able to start a new lottery.
+
+Test Case 4:
+Participants able to enter lottery.
+Participants to enter with required fee.
+
+Test Case 5:
+Only admin can call Winner.
+Select Winner after lottery time.
+Send ethers to Winner.
+
